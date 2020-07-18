@@ -9,12 +9,13 @@
 </a>
 <br/>
 ### Hi 🙋‍♂️,
+
 ### I'm s Self-taught Frontend developer from India.
 
 
 #### - 🥀 Learning GraphQl
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >](https://www.linkedin.com/in/yatish-1/)
+#### - 💬 Connect? Here 👉🏼[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" >](https://www.linkedin.com/in/yatish-1/)
 
 <br />
 
