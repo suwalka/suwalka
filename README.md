@@ -1,14 +1,10 @@
 ### Hi there, I'm [Yatish!](https://suwalka.github.io/yatish/) 👋.
 
-<br/>
-
-#### Hi 🙋‍♂️,
-
 ### I'm s Self-taught Frontend developer from India.
 
-#### 🥀 Learning GraphQl
+### 🥀 Learning GraphQl
 
-#### 💬 Connect? Here 👉🏼 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" >](https://www.linkedin.com/in/yatish-1/) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" >](https://twitter.com/yksuwalka)
+### 💬 Connect? Here 👉🏼 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" >](https://www.linkedin.com/in/yatish-1/) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" >](https://twitter.com/yksuwalka)
 
 <br />
 
