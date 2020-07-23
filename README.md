@@ -1,4 +1,4 @@
-### Hi there, I'm [Yatish!](https://suwalka.github.io/yatish/) 👋.
+### Hi there, I'm [Yatish!](https://suwalka.github.io/ys/) 👋.
 ### 🔭 I'm s Self-taught Frontend developer from India.
 ### 👯 I’m looking to collaborate on Web Development
 ### 🤔 I’m looking for help with WASM
